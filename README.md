@@ -19,10 +19,21 @@ hardhat/test/decentralizedLibrary-test.js
 Contribution 1: Initialized project and added necessary golder and
 
 Link to Commit: 
-- https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/11/commits/7ee07b6750a22f8e788763021a48aaf5cbc72ca6
-- https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/11/commits/7ee07b6750a22f8e788763021a48aaf5cbc72ca6
--  https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/14/commits
-- https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/commit/40803b8533a6c2571e3ed799c2b6dd77d54cef6f
-- https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/22/commits/5d9ea6661fb4b527470499ed6ce9b173d3053c82
-- https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/19/commits/e5d9070437416a9f6fda81fb546b46ceb72743bf
-hardhat/test/decentralizedLibrary-test.js
+### completed listing of candidate vote result in table
++ https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/19/commits
+
+### redirection countdown
++ https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/22/commits
+
+### Redirect to homepage if result is not active
++ https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/21/commits
+
+### Add candidate to screen dynamically 
++ https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/15/commits
+
+### added vote profile on vote page
++ https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/14/commits
+
+### worked on status bar in voting page and display wallet address
++ https://github.com/TDAS-Dev/BlockGames_Web3_VotingSystem/pull/11/commits
+
